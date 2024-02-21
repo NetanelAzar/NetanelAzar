@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Israel</h3>
 <img align="right" alt="Coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=netanelazar" alt="netanelazar" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [My github](My github)
 
 - 📫 How to reach me **netanelazar880@gmail.com**
@@ -20,4 +18,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netanelazar&show_icons=true&locale=en" alt="netanelazar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=netanelazar&" alt="netanelazar" /></p>
+
+
+
+
+
+
