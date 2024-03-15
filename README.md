@@ -2,7 +2,11 @@
 <h3 align="center">A passionate frontend developer from Israel</h3>
 
 - 📫 How to reach me **netanelazar880@gmail.com**
+זה הקוד:
+  <p> <img src="https://komarev.com/ghpvc/?username=NetanelAzar&label=Profile%20views&color=0e75b6&style=flat" alt="shaymarks" align="center" /> </p>
 
+
+רק תשנה את זה לשם שלך
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/netanel-azar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/netanel-azar" height="30" width="40" /></a>
